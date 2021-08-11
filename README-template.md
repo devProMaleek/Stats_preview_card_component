@@ -67,7 +67,8 @@ I look forward to be perfect with the use of flexbox, box-model, Media query.
 
 - [Cover Overlay](https://www.https://www.youtube.com/watch?v=ZJZtmD3H9Sc) - This helped me for the color overlay on the image. I really liked this pattern and will use it going forward.
 
-
+Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+**
 ## Author
 
 - Full name - Abdulmalik Adeola Adebayo
